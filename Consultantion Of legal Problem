@@ -1,0 +1,50 @@
+<html>
+ <title>Online Consultantion of the Legal Problem - Search engine for Indian Law</title>
+<head><center>
+	<h4 style="background-color:white"> CONSULTANT TO SOLVE LEGAL PROBLEM AND SPREAD AWARENESS ABOUT LAW & ORDER</H4>
+	<style>
+		body{
+			background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR0xGunGsjfLvtK4Z6nHIyeIxndwBZftZkKY19p9ng&s');
+			background-repeat:no-repeat;
+			background-attachment:fixed;
+			background-size:30%;
+			background-color:black;
+			background-position:center;
+			} 
+	</style>
+</head>
+ <body>
+ 
+<center>
+  <form method="GET" action="/search/" id="search-form">
+    <input type="text" name="formInput" class="searchbox ui-autocomplete-input" id="search-box"
+	autofocus="autofocus" autocomplete="off">
+    <input type="submit" value="Search" class="submitbutton ui-button ui-corner-all ui-widget"
+	id="submit-button" role="button">
+    </form>
+<div>
+
+  <div class="bottom_links">
+	  <a style="color:white" href="https://njdg.ecourts.gov.in/njdgnew/index.php" "w3-bar-item w3-button" style="width:25%">REGISTERED CASES</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <a style="color:white" href="https://www.indiatoday.in/livetv">NEWS</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <a style="color:white" href="https://cybercrime.gov.in/">COMPLAINT</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <a style="color:white" href="https://docs.google.com/forms/d/e/1FAIpQLSdR8A0vJfgUHYHqb4FThZJXCx2nLqTrtMcmAz01tskMWT65cw/viewform?vc=0&c=0&w=1&flr=0">QUERY</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <a style="color:white" href="https://ABOUT/">ABOUT</a>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+      <a style="color:white" href="https://docs.google.com/forms/d/1wFysYI-BoqyzZH9jsVmM4ubuVQ8uBKbANmtlF0k0rmY/edit">REVIEW</a>
+</div>
+
+
+<div id="divinstall" style="position: fixed; left:
+00px; bottom: -2px; width: 100%; border: 1px solid rgb(12, 12, 12);
+ box-shadow: rgba(50, 50, 50, 0.75) 0px -4px 3px; font-weight: bold;
+ text-align: center; display: block; z-index: 1; background: white; opacity: 1;">
+
+
+      <button id="butinstall" type="button" style="font-weight: bold; text-align: center; color: blue;
+	  background-color: white;font-size: 2.2em; border: none;">Thank for Using Our Website</button>
+   <span id="installclose" style="color:grey;float:right; margin:27px 20px 0px 0px;">x</span>
+</div>
+
+</BODY>
+</HTML>
+
